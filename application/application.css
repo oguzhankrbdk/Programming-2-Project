@@ -1,0 +1,59 @@
+/*Project2020 */
+
+.entryPane{
+	-fx-background-color: #525659;
+}
+
+.startLabel{
+	-fx-margin-left: 10px;
+	-fx-alignment: center;
+	-fx-text-alignment: center;
+	-fx-font-family: monospace;
+	-fx-font-weight: 900;
+	-fx-font-size: 20;
+	-fx-text-fill: #e8e8e8;
+}
+
+.borderPane{
+	-fx-border-radius: 10px;
+	-fx-border: 10px;
+	-fx-border-color: white;
+	
+}
+
+.headerText{
+	-fx-font-size: 24;
+	-fx-font-weight:bold;
+}
+
+.rootPane{
+	-fx-background-color: #525659;
+}
+
+.resultPane{
+	-fx-background-color: #525659;
+}
+
+.exitLabel{
+	-fx-font-size: 24;
+	-fx-font-weight:bold;
+}
+
+.playALabel{
+	-fx-font-size: 24;
+	-fx-font-weight:bold;
+}
+
+.me{
+	-fx-font-family: monospace;
+	-fx-font-weight: 900;
+	-fx-font-size: 20;
+	-fx-text-fill: #e8e8e8;
+}
+
+.scoreL{
+	-fx-font-family: monospace;
+	-fx-font-weight: 900;
+	-fx-font-size: 20;
+	-fx-text-fill: #e8e8e8;
+}
